@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "392251017665",
+    "project_id": "softecapp-aebe7",
+    "storage_bucket": "softecapp-aebe7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392251017665:android:cc96c82171ad0014e3c740",
+        "android_client_info": {
+          "package_name": "com.zaidbinihtesham.softec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392251017665-vun6mfsii44je2qvef0572toj5qp0ms5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa1eqn_XV_Q6FJs0xXiQl70X_xTbzgKM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392251017665-vun6mfsii44je2qvef0572toj5qp0ms5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392251017665:android:2a13720626f74f19e3c740",
+        "android_client_info": {
+          "package_name": "com.zaidbinihtesham.softec2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392251017665-vun6mfsii44je2qvef0572toj5qp0ms5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa1eqn_XV_Q6FJs0xXiQl70X_xTbzgKM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392251017665-vun6mfsii44je2qvef0572toj5qp0ms5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
